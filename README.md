@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - Atualmente desenvolvedor no projeto de iniciação científica Eco Waste🌱
 - Estudando Python 
 
