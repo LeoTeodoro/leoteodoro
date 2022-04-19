@@ -1,5 +1,4 @@
 - Atualmente desenvolvedor no projeto de iniciação científica Eco Waste🌱
-- Estudando Python 
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=leoteodoro&show_icons=true&theme=tokyonight&count_private=true)
