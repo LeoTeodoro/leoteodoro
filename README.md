@@ -1,4 +1,4 @@
-- Atualmente desenvolvedor no projeto de iniciação científica Eco Waste🌱
+- Currently working as QA Tester
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=leoteodoro&show_icons=true&theme=tokyonight&count_private=true)
