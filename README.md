@@ -1,7 +1,7 @@
 - Currently working as QA Tester
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=leoteodoro&show_icons=true&theme=tokyonight&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoTeodoro&show_icons=true&theme=tokyonight&count_private=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leonardo-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
